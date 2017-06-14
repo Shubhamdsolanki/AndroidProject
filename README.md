@@ -38,7 +38,9 @@ The following software/products are needed in order to run this application on y
 
 1. The application is tested on Android versions 4.4.4 API 19 KITKAT, 5.0.0 API 21 LOLLIPOP.
 
-
+## Screenshot
+1. Login Screen:
+   Screenshots/Login.png
 ## Acknowledgments
 
 * Used libraries created by florent37 for expanding ViewPager function of the application.
