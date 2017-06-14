@@ -36,11 +36,42 @@ The following software/products are needed in order to run this application on y
 
 ## Built With
 
-1. The application is tested on Android versions 4.4.4 API 19 KITKAT, 5.0.0 API 21 LOLLIPOP.
+1. The application is tested on Android versions 4.4.4 API 19 Kitkat, 5.0.0 API 21 Lollipop.
 
 ## Screenshot
-1. Login Screen:
-   Screenshots/Login.png
+### 1. Login Screen:
+
+   ![](Screenshots/Login.png)
+   
+   
+### 2. Navigation Drawer:
+   Fetched user profile.
+
+   ![](Screenshots/Profile%20Fetch.png)
+   
+
+### 3. Store selection:
+   User can either see the Store items or select directions to get route between user's location and store location.
+   
+   ![](Screenshots/Store%20Info.png)
+   
+   
+### 4. CheckOut Screen:
+   The checkout screen has advanced animation where user can click on item and it expands to show user more detail about the 
+   item. The first screenshot is the checout screen, while the second screenshot shows detailed verion of the item after the 
+   user clicks on the item.
+   
+   ![](Screenshots/CheckOut.png)
+   ![](Screenshots/CheckOut%20Flip.png)
+   
+   
+### 5. About Us:
+   The about us page also has advanced animation where the ViewPager expands to show detailed information.
+   
+   ![](Screenshots/About%20Us.png)
+   ![](Screenshots/About%20Us%20expanded.png)
+   
+
 ## Acknowledgments
 
 * Used libraries created by florent37 for expanding ViewPager function of the application.
